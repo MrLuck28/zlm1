@@ -33,7 +33,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>H56611EA9</string>
+                <string>cn.damichina.app</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
