@@ -13,6 +13,22 @@
                     <key>url</key>
                     <string>http://www.zlm1.cn/app/zlm1.ipa</string>
                 </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>http://www.zlm1.cn/app/58x58.png</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>http://www.zlm1.cn/app/192x192.png</string>
+                </dict>
             </array>
             <key>metadata</key>
             <dict>
